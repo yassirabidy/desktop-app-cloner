@@ -26,7 +26,11 @@ Claude · ChatGPT (with Codex) · Discord · VS Code · Cursor · Windsurf · Go
 
 ### 1. Pick an app
 
-Click **New clone**. Apps installed on your PC are ready to clone; the others are greyed out. **Any other app** lets you pick a program file yourself.
+The app opens on **Home**, which shows the apps you can clone. Click one to start.
+
+<p align="center"><img src="screenshots/00-home.png" alt="The Home page" width="75%"></p>
+
+You can also click **New clone** from any page. Apps installed on your PC are ready to clone; the others are greyed out. **Any other app** lets you pick a program file yourself.
 
 <p align="center"><img src="screenshots/02-new-clone-picker.png" alt="Choosing an app to clone" width="75%"></p>
 
@@ -38,7 +42,7 @@ Give the clone a name, pick a color, and decide whether it gets its own desktop 
 
 ### 3. Launch, stop and manage your clones
 
-Every clone has a card: **Launch** opens it, the green dot shows which ones are running, and the red **■** stops a running clone (also the ones hiding in the system tray). Click an app in the sidebar to see only its clones.
+**All clones** lists every clone you've made, grouped by app. Every clone has a card: **Launch** opens it, the green dot shows which ones are running, and the red **■** stops a running clone (also the ones hiding in the system tray). Click an app in the sidebar to see only its clones.
 
 <p align="center"><img src="screenshots/04-app-page.png" alt="The clones of one app" width="75%"></p>
 
@@ -60,7 +64,7 @@ Switch themes with the sun/moon button at the top right. Your choice is remember
 
 ## Updates
 
-The app updates itself from this page. A new version downloads in the background while you work and installs when you close the app, or right away if you click **Restart**. Your clones, their sign-ins and their shortcuts are kept.
+The app updates itself from this page. A new version downloads in the background while you work. It installs when you close the app, right away if you click **Restart**, or by itself 15 minutes after it finishes downloading if you keep the app open (it waits until you're done with any open dialog). Your clones, their sign-ins and their shortcuts are kept.
 
 ## About and support
 
