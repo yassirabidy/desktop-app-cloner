@@ -16,6 +16,8 @@ The other files in a release (`latest.yml` and the `.blockmap`) are used by the 
 
 **"Windows protected your PC"?** The app is not code-signed yet, so Windows SmartScreen may warn about it the first time. Click **More info › Run anyway**. Only do this for files downloaded from this page.
 
+**"Smart App Control blocked an app that may be unsafe"?** On PCs with Smart App Control turned on, Windows blocks apps that are not code-signed, and this message has no **Run anyway** button. There is no way to allow just this one installer. A signed version is planned; until then the installer can't run on these PCs. You can check the setting in **Windows Security › App & browser control › Smart App Control**. Turning it off applies to every app and can't be turned back on without reinstalling Windows, so we don't recommend it just for this app.
+
 **Requirements:** Windows 10 or 11, and the apps you want to clone already installed.
 
 ## Supported apps
