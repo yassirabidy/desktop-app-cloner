@@ -4,7 +4,7 @@ Run separate accounts of your desktop apps side by side on Windows: Claude, Chat
 
 ## Download
 
-1. Open the **[latest release](https://github.com/yassirabidy/desktop-app-cloner-releases/releases/latest)**.
+1. Open the **[latest release](https://github.com/yassirabidy/desktop-app-cloner/releases/latest)**.
 2. Under **Assets**, download **`DesktopAppCloner-<version>-Setup.exe`**.
 3. Double-click it. It installs for your Windows user (no admin needed), adds Start menu and desktop shortcuts, and opens the app.
 
@@ -23,7 +23,7 @@ The app updates itself from this page. A new version downloads in the background
 
 ## Help and feedback
 
-Found a problem or have an idea? [Open an issue](https://github.com/yassirabidy/desktop-app-cloner-releases/issues).
+Found a problem or have an idea? [Open an issue](https://github.com/yassirabidy/desktop-app-cloner/issues).
 
 Desktop App Cloner is free. If it saves you time, you can support it with a donation on [PayPal](https://paypal.me/yassirabidy).
 
