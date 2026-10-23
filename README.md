@@ -10,7 +10,7 @@
 
 1. Open the **[latest release](https://github.com/yassirabidy/desktop-app-cloner/releases/latest)**.
 2. Under **Assets**, download **`DesktopAppCloner-<version>-Setup.exe`**.
-3. Double-click it. It installs for your Windows user (no admin needed), adds Start menu and desktop shortcuts, and opens the app.
+3. Double-click it and click **Yes** when Windows asks for administrator permission. It installs for all users of the PC (in Program Files), adds Start menu and desktop shortcuts, and opens the app. The app itself runs without administrator rights.
 
 The other files in a release (`latest.yml` and the `.blockmap`) are used by the app to update itself; you don't need to download them.
 
@@ -66,7 +66,7 @@ Switch themes with the sun/moon button at the top right. Your choice is remember
 
 ## Updates
 
-The app updates itself from this page. A new version downloads in the background while you work. It installs when you close the app, right away if you click **Restart**, or by itself 15 minutes after it finishes downloading if you keep the app open (it waits until you're done with any open dialog). Your clones, their sign-ins and their shortcuts are kept.
+The app updates itself from this page. A new version downloads in the background while you work. It installs when you close the app, right away if you click **Restart**, or by itself 15 minutes after it finishes downloading if you keep the app open (it waits until you're done with any open dialog). Windows asks for administrator permission each time an update installs. Your clones, their sign-ins and their shortcuts are kept.
 
 ## About and support
 
