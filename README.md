@@ -22,7 +22,7 @@ The other files in a release (`latest.yml` and the `.blockmap`) are used by the 
 
 ## Supported apps
 
-Claude · ChatGPT (with Codex) · Discord · VS Code · Cursor · Windsurf · Google Chrome · Microsoft Edge · Brave — plus **any other app** you add yourself (experimental).
+Claude · ChatGPT (with Codex) · Gemini · Discord · VS Code · Cursor · Windsurf · Google Chrome · Microsoft Edge · Brave — plus **any other app** you add yourself (experimental).
 
 ## How it works
 
