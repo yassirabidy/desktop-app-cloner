@@ -1,23 +1,24 @@
 # Privacy policy
 
-_Desktop App Cloner, last updated 22 October 2026_
+_Desktop App Cloner, last updated 30 October 2026_
 
 Desktop App Cloner runs entirely on your computer. It has no account, no analytics and no ads,
 and it does not collect, store on a server, sell or share any personal information.
 
 ## What stays on your computer
 
-To manage your clones, the app keeps these on your PC only:
+To manage your clones, the app keeps these on your PC only, in its data folder. That folder is
+`%USERPROFILE%\DesktopAppCloner` for the copy from the Microsoft Store and
+`%APPDATA%\DesktopAppCloner` for the copy downloaded from GitHub.
 
-- a list of your clones (name, color, which app they belong to) in
-  `%APPDATA%\DesktopAppCloner\profiles.json`;
-- each clone's own data folder under `%APPDATA%\DesktopAppCloner`. This is where the cloned
-  app (for example Claude or Chrome) keeps that clone's sign-ins, chats, settings and cache.
-  Desktop App Cloner creates the folder but does not read what the cloned app saves in it;
+- a list of your clones (name, color, which app they belong to) in `profiles.json`;
+- each clone's own data folder. This is where the cloned app (for example Claude or Chrome)
+  keeps that clone's sign-ins, chats, settings and cache. Desktop App Cloner creates the folder
+  but does not read what the cloned app saves in it;
 - the desktop shortcuts you choose to create, and the app's own settings (such as light or dark theme).
 
 Removing a clone in the app deletes its shortcut and its data folder. Uninstalling the app does
-not delete your clones' data; you can delete the `%APPDATA%\DesktopAppCloner` folder yourself.
+not delete your clones' data; you can delete the data folder yourself.
 
 ## Network access
 
